@@ -26,51 +26,10 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/alizabetpoor"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="alizabetpoor" /></a></p><br><br>
-<br>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alizabetpoor&show_icons=true&locale=en&layout=compact" alt="alizabetpoor" /></p>
-<br>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=alizabetpoor&show_icons=true&locale=en" alt="alizabetpoor" /></p>
-<br>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=alizabetpoor&" alt="alizabetpoor" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alizabetpoor&show_icons=true&locale=en" alt="alizabetpoor" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alizabetpoor&" alt="alizabetpoor" /></p>
 
-
-
-
-
-
-
-
-
-
-
-<!--
-### Hi there 👋
-<h3>Full Stack developer</h3>
-- telegram:@alizabetpoor
-- email: **ali_0_zabetpoor@ymail.com**
-
-
-<br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alizabetpoor&show_icons=true&locale=en&layout=compact" alt="alizabetpoor" /></p>
-<br>
-
-<br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=alizabetpoor&show_icons=true&locale=en" alt="alizabetpoor" /></p>
-
-
-
-**alizabetpoor/alizabetpoor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
