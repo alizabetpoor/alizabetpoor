@@ -1,205 +1,25 @@
 <h1 align="center">Hi 👋, I'm Ali</h1>
 <h3 align="center">A passionate Front-end developer</h3>
+👯 I’m looking to collaborate on frontend projects<br>🌱 I’m currently learning Next.js<br>💬 Ask me about React, Typescript, Next.js
 
-<p align="left">
-  <img
-    src="https://komarev.com/ghpvc/?username=alizabetpoor&label=Profile%20views&color=0e75b6&style=flat"
-    alt="alizabetpoor"
-  />
-</p>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"
-    ><img
-      src="https://github-profile-trophy.vercel.app/?username=alizabetpoor"
-      alt="alizabetpoor"
-  /></a>
-</p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alizabetpour) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/13566443) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/alizabetpoor) 
 
-<p align="left">
-  <a href="https://twitter.com/alizabetpoor" target="blank"
-    ><img
-      src="https://img.shields.io/twitter/follow/alizabetpoor?logo=twitter&style=for-the-badge"
-      alt="alizabetpoor"
-  /></a>
-</p>
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=flat&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=alizabetpoor&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=alizabetpoor&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=alizabetpoor&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-- 🌱 I’m currently learning **react** - 💬 Ask me about **react,django** - 📫
-How to reach me **ali_0_zabetpoor@ymail.com**
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=alizabetpoor&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://twitter.com/alizabetpoor" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="alizabetpoor"
-      height="30"
-      width="40"
-  /></a>
-  <a href="https://linkedin.com/in/ali-zabetpour-1143b3214" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="ali-zabetpour-1143b3214"
-      height="30"
-      width="40"
-  /></a>
-  <a href="https://fb.com/alizabetpoor" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-      alt="alizabetpoor"
-      height="30"
-      width="40"
-  /></a>
-  <a href="https://instagram.com/alizabetpoor" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="alizabetpoor"
-      height="30"
-      width="40"
-  /></a>
-</p>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=alizabetpoor&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://getbootstrap.com" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-      alt="bootstrap"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-      alt="css3"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg"
-      alt="django"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank">
-    <img
-      src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg"
-      alt="flask"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img
-      src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-      alt="git"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-      alt="html5"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a
-    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-    target="_blank"
-  >
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="javascript"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.linux.org/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
-      alt="linux"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.python.org" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-      alt="python"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://reactjs.org/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-      alt="react"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.sqlite.org/" target="_blank">
-    <img
-      src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg"
-      alt="sqlite"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank">
-    <img
-      src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
-      alt="tailwind"
-      width="40"
-      height="40"
-    />
-  </a>
-</p>
+---
+[![](https://visitcount.itsvg.in/api?id=alizabetpoor&icon=4&color=0)](https://visitcount.itsvg.in)
 
-<h3 align="left">Support:</h3>
-<p>
-  <a href="https://www.buymeacoffee.com/alizabetpoor">
-    <img
-      align="left"
-      src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"
-      height="50"
-      width="210"
-      alt="alizabetpoor"
-  /></a>
-</p>
-<br /><br /><br />
-<div style="display: flex; flex-direction: column">
-  <p>
-    <img
-      align="left"
-      src="https://github-readme-stats.vercel.app/api/top-langs?username=alizabetpoor&show_icons=true&locale=en&layout=compact"
-      alt="alizabetpoor"
-    />
-  </p>
-
-  <p>
-    &nbsp;<img
-      align="center"
-      src="https://github-readme-stats.vercel.app/api?username=alizabetpoor&show_icons=true&locale=en"
-      alt="alizabetpoor"
-    />
-  </p>
-
-  <p>
-    <img
-      align="center"
-      src="https://github-readme-streak-stats.herokuapp.com/?user=alizabetpoor&"
-      alt="alizabetpoor"
-    />
-  </p>
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
